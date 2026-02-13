@@ -330,4 +330,7 @@ footer a:hover {
 
 .question-answers{
   max-width: 100%;
+  height: auto;
+  display: block;
 }
+
